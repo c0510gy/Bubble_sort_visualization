@@ -1,0 +1,7 @@
+D:\Projects\sorting_algorithm\Bubble_sort\Bubble_sort\Bubble_sort\bin\Debug\Bubble_sort.exe.config
+D:\Projects\sorting_algorithm\Bubble_sort\Bubble_sort\Bubble_sort\bin\Debug\Bubble_sort.exe
+D:\Projects\sorting_algorithm\Bubble_sort\Bubble_sort\Bubble_sort\bin\Debug\Bubble_sort.pdb
+D:\Projects\sorting_algorithm\Bubble_sort\Bubble_sort\Bubble_sort\obj\Debug\Bubble_sort.csprojAssemblyReference.cache
+D:\Projects\sorting_algorithm\Bubble_sort\Bubble_sort\Bubble_sort\obj\Debug\Bubble_sort.csproj.CoreCompileInputs.cache
+D:\Projects\sorting_algorithm\Bubble_sort\Bubble_sort\Bubble_sort\obj\Debug\Bubble_sort.exe
+D:\Projects\sorting_algorithm\Bubble_sort\Bubble_sort\Bubble_sort\obj\Debug\Bubble_sort.pdb
